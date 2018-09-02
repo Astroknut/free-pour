@@ -79,16 +79,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   Free Pour
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
+                    <a href="https://github.com/Astroknut/free-pour">GitHub</a>
                     <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.git-tower.com/blog/git-cheat-sheet">Git Cheet Sheet</a>
                 </div>
             </div>
         </div>
